@@ -272,7 +272,7 @@ public class TIC_TAC_TOE extends javax.swing.JFrame {
         setTitle("TIC TAC TOE");
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(0, 51, 255));
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 51));
